@@ -79,7 +79,7 @@ typedef uint8_t PortMask;
 #define SSD1331_CMD_PRECHARGELEVEL 	0xBB
 #define SSD1331_CMD_VCOMH 			0xBE
 
-class Adafruit_SSD1331 : public virtual Adafruit_GFX {
+class Adafruit_SSD1331 : public Adafruit_GFX {
  public:
   Adafruit_SSD1331(uint8_t CS, uint8_t RS, uint8_t SID, uint8_t SCLK, uint8_t RST);
   Adafruit_SSD1331(uint8_t CS, uint8_t RS, uint8_t RST);
