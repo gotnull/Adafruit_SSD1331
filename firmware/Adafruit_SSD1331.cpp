@@ -14,7 +14,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "Adafruit_GFX/Adafruit_GFX.h"
+#include "Adafruit_GFX.h"
 #include "Adafruit_SSD1331.h"
 //#include "glcdfont.c"
 
