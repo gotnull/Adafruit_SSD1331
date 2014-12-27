@@ -16,7 +16,7 @@
 
 #include "Adafruit_GFX.h"
 #include "Adafruit_SSD1331.h"
-#include "glcdfont.c"
+//#include "glcdfont.c"
 
 #if !defined (SPARK)
 #ifdef __avr__
