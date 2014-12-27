@@ -9,7 +9,6 @@
 class Adafruit_GFX : public Print {
 
  public:
-
   Adafruit_GFX(int16_t w, int16_t h); // Constructor
 
   // This MUST be defined by the subclass:
