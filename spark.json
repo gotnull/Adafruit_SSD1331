@@ -1,6 +1,6 @@
 {
     "name": "Adafruit_SSD1331",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Fulvio Cusumano <fcusumano@gmail.com>",
     "license": "BSD license, all text above must be included in any redistribution",
     "description": "Adafruit SSD1331 library for SparkCore"
